@@ -24,10 +24,10 @@ What lag measures are the most at risk?
 
 **3-5 Daily Moves**
 1. Deep Work: Select 5 startup roles, tailor resume and submit.
-1. Deep Work: Move $100 towards Car note and call Geico
-1. Deep Work: create a new database schema to produce programmatic seo.
-2. Shallow Work: Request vacation time for June SAT on 5/23 @ 8am 
-3. Life: none
+2. Deep Work: Move $100 towards Car note and call Geico
+3. Deep Work: create a new database schema to produce programmatic seo.
+4. Shallow Work: Request vacation time for June SAT on 5/23 @ 8am 
+5. Life: none
 
 **Time Block**
 1. Block time for deep work.
