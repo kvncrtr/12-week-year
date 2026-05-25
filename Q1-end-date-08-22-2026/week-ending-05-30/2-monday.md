@@ -39,5 +39,5 @@ What lag measures are the most at risk?
 - Publish 2 technical posts ___ / 2
 - Budget 4x, tracking expense + income + cash flow ___ / $200
 
-```
+```Bash
 git add .; git commit -m "daily commit for planning my day"; git push;
