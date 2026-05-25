@@ -38,3 +38,6 @@ What lag measures are the most at risk?
 - Create a backend feature slice for LBLC with architectural documentation updated ___ / 1
 - Publish 2 technical posts ___ / 2
 - Budget 4x, tracking expense + income + cash flow ___ / $200
+
+```
+git add .; git commit -m "daily commit for planning my day"; git push;
