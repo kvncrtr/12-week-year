@@ -1,5 +1,10 @@
 # Day, 2026
 
+1. Check fixed obligations and time blocks for today
+2. Merge capture list
+3. Pray
+4. Daily 3 Leads and Shallows
+
 ### Fixed Obligations
 
 -

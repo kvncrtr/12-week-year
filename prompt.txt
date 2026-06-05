@@ -87,3 +87,24 @@ Relationship / Family / God
 1. Plan and spend 1 date night with no kids weekly
 2. Converse with 1 successful person on great parenting tactics bi-weekly 
 3. Study the bible for 30mins 2x with multiple notes weekly
+
+
+- What was your exact path from where you started to your first software engineering job?
+
+- What experience immediately preceded your first SWE role?
+
+- Did pursuing a CS degree materially improve your access to opportunities, and how?
+
+- Did you complete an internship before your first SWE role, and how did you secure it?
+
+- Did an adjacent technical role, project, research position, tutoring role, or internal transfer improve your credibility?
+
+- What specific action produced the interview for your first SWE role?
+
+- What hiring signal mattered most once you entered the interview process?
+
+- What company type was realistic for your first role: startup, internship employer, internal transfer, or large company?
+
+- What would you prioritize during the next six months if you were in my position?
+
+- Which part of my proposed path would you keep, change, or remove?
