@@ -124,23 +124,3 @@ Time Block every event in google
 4. Current score: ___ / 5+
 5. Target: 20+ cross-references
 6. Current score: ___ / 20+
-
-- What was your exact path from where you started to your first software engineering job?
-
-- What experience immediately preceded your first SWE role?
-
-- Did pursuing a CS degree materially improve your access to opportunities, and how?
-
-- Did you complete an internship before your first SWE role, and how did you secure it?
-
-- Did an adjacent technical role, project, research position, tutoring role, or internal transfer improve your credibility?
-
-- What specific action produced the interview for your first SWE role?
-
-- What hiring signal mattered most once you entered the interview process?
-
-- What company type was realistic for your first role: startup, internship employer, internal transfer, or large company?
-
-- What would you prioritize during the next six months if you were in my position?
-
-- Which part of my proposed path would you keep, change, or remove?

@@ -28,7 +28,7 @@ none
 
 ### Capture List
 
--
--
--
--
+- add photos of Judah and Shiloh in brightwheel.
+- turn off tithes this week until my wife gets paid.
+- hang up whiteboard for displaying finacials
+- budget meet every sunday, discussing income, expenses, and cashflow
